@@ -5,16 +5,16 @@
 - 선(wire)으로 틀(frame)을 잡는다는 뜻으로, 제품 기획 단계에서 페이지를 어떻게 구성할 것인지 구조를 잡기위한 목적으로 만든다.
 - 피델리티(fidelity) : 와이어프레임 표현 시의 품질 수준을 뜻하며, 3가지 레벨이 나뉜다.
 
-  1. Low Fidelity Wireframe (Lo-Fi Wireframe)  
+  **1. Low Fidelity Wireframe (Lo-Fi Wireframe)**  
      손으로 빠르게 그린 수준의 와이어프레임  
      작성하는데 시간이 많이 들지 않아 수정하거나 새로운 의견을 반영하기 쉽다.  
      아이디어를 구체화 시키며 큰 그림을 잡을 때 좋다.
 
-  2. Middle Fidelity Wireframe (Mid-Fi Wireframe)  
+  **2. Middle Fidelity Wireframe (Mid-Fi Wireframe)**  
      Lo-Fi 와이어프레임을 그리면서 아이디어가 어느정도 구체화되고 확정된 후에 보기 좋게 다듬은 것.  
      Mid-Fi 수준에서는 와이어프레임을 봤을 때 해당 페이지가 어떻게 작동하게 될 지 예상할 수 있다.
 
-  3. High Fidelity Wireframe (Hi-Fi Wireframe)  
+  **3. High Fidelity Wireframe (Hi-Fi Wireframe)**  
      와이어프레임을 완성본에 가깝게 작성한 것.  
      와이어프레임이라기 보다는 목업에 가까운 형태이며, 작성하는데 시간도 많이 들고 수정도 어렵기 때문에 와이어프레임을 작성하는 목적과는 맞지 않아 Hi-Fi한 수준까지 만드는 경우는 거의 없다.
 
@@ -28,16 +28,16 @@
 
 - 프로토타입 역시 얼마나 최종 결과물과 흡사하게 만들었는지에 따라서 피델리티 레벨이 나뉜다.
 
-  1. Low Fidelity Prototype (Lo-Fi Prototype)  
+  **1. Low Fidelity Prototype (Lo-Fi Prototype)**  
      구체적인 내용이 작성되어있지 않은 상태에서 간단한 상호 작용과 페이지 이동 정도만 테스트해볼 수 있는 수준의 프로토타입  
      User flow 상에서 빠지거나 어색한 기능 혹은 페이지가 없는지 빠르게 검토할 수 있다.
 
-  2. High Fidelity Prototype (Hi-Fi Prototype)  
+  **2. High Fidelity Prototype (Hi-Fi Prototype)**  
      최종 결과물과 거의 유사한 수준으로 만든 프로토타입
      이 단계에서는 디자인을 거의 확정하게 되며, 실제 제품과 거의 다름없이 작동하기 때문에 사용성 테스트가 가능하다.  
      테스트를 통해 개발 비용이 들어가기 이전에 UI/UX 관련 문제를 발견하고 수정할 수 있어 비용 절감 효과를 볼 수 있다.
 
-  3. Middle Fidelity Prototype (Mid-Fi Prototype)  
+  **3. Middle Fidelity Prototype (Mid-Fi Prototype)**  
      Hi-Fi 프로토타입처럼 완성도가 높지는 않지만, Lo-Fi 프로토타입보다는 최종 결과물에 가까운 프로토타입  
      사용성 테스트를 하기위해서는 적어도 Mid-Fi 수준의 프로토타입을 작성해주는 것이 좋다.
 
@@ -45,7 +45,7 @@
 
 ### 와이어프레임과 프로토타입의 차이
 
-|           | 와이어프레임                            | 프로토타입                                  |
+|           | **와이어프레임**                            | **프로토타입**                                  |
 | --------- | --------------------------------------- | ------------------------------------------- |
 | 작성 시기 | 기획 단계                               | 개발 전 단계                                |
 | 작성 목적 | 화면 구조 설계                          | UI 상호작용 시뮬레이션                      |
