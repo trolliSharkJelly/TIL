@@ -40,6 +40,6 @@ React에서는 상태가 변경된 UI요소이며, 가상 DOM 트리의 이전�
 그 다음 트리가 업데이트 된 UI를 제공하기 위해 부분적으로 리렌더링 되며 업데이트 된 트리는 실제 DOM으로 한꺼번에 업데이트 된다.  
 
 
-- **참고 사이트**  
+#### 참고 사이트  
 https://dantechblog.gatsbyjs.io/posts/dom-virtualdom/  
 https://dev-cini.tistory.com/11
